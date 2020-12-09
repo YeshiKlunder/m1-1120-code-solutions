@@ -22,7 +22,6 @@ h1  {
 .chunk  {
   display: flex;
   flex-basis: 50%;
-  margin-left: 2rem;
   margin-bottom: 2rem;
   max-width: 50%;
 }
@@ -40,4 +39,8 @@ button  {
 }
 .text {
   margin-top: 0;
+  margin-left: 1rem;
+}
+p{
+  color: grey;
 }
