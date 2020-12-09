@@ -1,0 +1,46 @@
+html  {
+  font-family: Karla,sans-serif;
+  font-size: 18px;
+}
+body{
+  line-height: 1.9rem;
+}
+h1  {
+  font-size: 3rem;
+  text-align: center;
+}
+.subtitle {
+  color:  gray;
+  text-align: center;
+}
+.article  {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  max-width: 1180px;
+}
+.chunk  {
+  display: flex;
+  flex-basis: 50%;
+  margin-bottom: 2rem;
+  max-width: 50%;
+}
+.end  {
+  display: flex;
+  justify-content: center;
+}
+button  {
+  color:  #D94545;
+  background-color: white;
+  border-color: #D94545;
+  border-style: solid;
+  padding: .5rem 3.25rem;
+  font-size: 1rem;
+}
+.text {
+  margin-top: 0;
+  margin-left: 1rem;
+}
+p{
+  color: grey;
+}
